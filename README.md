@@ -1,4 +1,4 @@
-## Repositório do Portfólio da Calculadora de IMC
+## Calculadora de IMC
 
 <div align="center">
   <img src="https://github.com/bslindoso/calculadora_de_IMC/assets/48108317/49c0b5e2-7660-4c2e-9d4c-9cf174e9e01a" alt="Demostração da aplicação em funcionamento">
@@ -29,12 +29,10 @@ Este repositório serve como um exemplo do meu trabalho em desenvolvimento front
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/bslindoso/music-player-app.git
+   git clone https://github.com/bslindoso/calculadora_de_IMC.git
    ```
 
 2. Abra o arquivo `index.html` em seu navegador.
-
-3. Experimente as funcionalidades do player interagindo com os botões e observe a simulação do tempo restante, barra de progresso e a reinicialização automática.
 
 ## Sobre o Desenvolvedor:
 
