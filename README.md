@@ -22,8 +22,6 @@ Este repositório hospeda uma aplicação web que calcula o Índice de Massa Cor
 - **Acessibilidade Prioritária:** O projeto incorpora recursos de acessibilidade, incluindo instruções de fala para orientar os usuários e garantir uma experiência inclusiva.
 - **Código Modular e Legível:** O código é estruturado de forma modular e bem comentado, facilitando a manutenção e compreensão por parte de outros desenvolvedores.
 
-Este repositório serve como um exemplo do meu trabalho em desenvolvimento front-end, demonstrando minha habilidade em criar interfaces interativas e acessíveis.
-
 ## Como Utilizar:
 
 1. Clone o repositório:
